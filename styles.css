@@ -283,6 +283,15 @@ main {
   color: #ffffff; 
 }
 
+.contact-item a {
+  color: white; 
+  text-decoration: none; 
+}
+
+.contact-item a:hover {
+  text-decoration: underline; 
+}
+
 
 footer {
   text-align: center;
@@ -467,6 +476,16 @@ footer p {
 .contact-item span {
   font-size: 1rem;
 }
+
+.contact-item a {
+  color: white; 
+  text-decoration: none; 
+}
+
+.contact-item a:hover {
+  text-decoration: underline; 
+}
+
 
   
   footer {
